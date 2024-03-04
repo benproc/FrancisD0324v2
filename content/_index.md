@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: biography-2
     content:
-      title: 👋 Hey, I’m Shiung
+      title: Francis Deas dip psych
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
 ---

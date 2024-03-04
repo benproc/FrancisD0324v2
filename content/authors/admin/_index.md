@@ -1,43 +1,43 @@
 ---
 # Display name
-title: 吳健雄
+title: Francis Deas
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Francis
+last_name: Deas
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Psychotherapist and Supervisor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: 
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:francisdeas@yahoo.co.uk'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  #- icon: brands/x
+   # url: https://twitter.com/GetResearchDev
+  #- icon: brands/github
+  #  url: https://github.com/gcushen
+  #- icon: brands/linkedin
+  #  url: https://www.linkedin.com/
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
 
 education:
   - area: PhD Artificial Intelligence
@@ -169,14 +169,24 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## I live in San Francisco, designing large language models at OpenAI.
+## UKCP REGISTERED
 
-I am a research scientist at Open AI where I am currently working on training ChatGPT v100.
+I have been a full time UK registered psychotherapist for the last 25 years and have worked with people from a broad range of backgrounds on issues such as anxiety, self-esteem, relationship conflict, nervous breakdown, and bereavement.
 
-My research interests include:
+Prior to this, a love of the natural beauty of wood led me to train as a successful craftsman-woodturner in Devon for 20 years. 
+I became increasingly interested in counselling and therapy in the early 1980s and completed the four-year postgraduate Psychotherapy training at the Karuna Institute on Dartmoor.
 
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+The Institute was one of the first to teach mindfulness-based psychotherapy and continues to train students from many parts of the world. I have contributed to the training as a Supervisor for clinical year students and have frequently been a member of the Institute’s graduation and accreditation panel.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie lacus nec finibus bibendum. Nullam turpis nibh, viverra quis libero at, pharetra laoreet magna.
+Core Process Therapy integrates Western psychotherapeutic theories and techniques, with Buddhist psychology and basic mindfulness practices. It is a depth psychotherapy: taking account of our early formative and developmental experiences, and how this may influence us in our present lives.
+
+Therapy can be enjoyable as well as challenging and in this approach the client-therapist relationship is considered paramount in building a safe, supportive environment for inner exploration and self-healing.
+
+> “Muddy water, let stand, becomes clear”  Lao Tzu
+
+I live in Pembrokeshire in Wales in the UK, and since Covid I work online on Zoom, Facetime (for Macs) and Skype.
+
+Sessions are weekly for 1 hour, enquire for present fees. 
+
+
+
