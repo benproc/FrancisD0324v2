@@ -188,5 +188,10 @@ I live in Pembrokeshire in Wales in the UK, and since Covid I work online on Zoo
 
 Sessions are weekly for 1 hour, enquire for present fees. 
 
+# Contact
 
+Please contact me by phone or email to find out more and arrange an initial meeting
+
+{{< icon name="phone" pack="fas" >}} 01865 123 123
+{{< icon name="envelope" pack="fas" >}} francisdeas@yahoo.co.uk
 
