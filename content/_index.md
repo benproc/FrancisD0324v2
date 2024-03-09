@@ -3,6 +3,13 @@ title: 'Home'
 date: 2023-10-24
 type: landing
 
+design:
+  background:
+    # Choose a color such as from https://html-color-codes.info
+    color: 'navy'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: true
+
 # Page sections
 sections:
   - block: biography-2
@@ -12,9 +19,4 @@ sections:
       username: admin
 ---
 
-# Contact
 
-Please contact me by phone or email to find out more and arrange an initial meeting
-
-{{< icon name="phone" pack="fas" >}} 01865 123 123
-{{< icon name="envelope" pack="fas" >}} francisdeas@yahoo.co.uk
