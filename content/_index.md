@@ -12,12 +12,12 @@ sections:
       title: Francis Deas dip psych
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
-      design:
-  background:
+  design:
+    background:
     # Choose a color such as from https://html-color-codes.info
-    color: 'navy'
+      color: 'navy'
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: true
+      text_color_light: true
 ---
 
 
