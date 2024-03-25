@@ -151,6 +151,13 @@ awards:
     icon: coursera
     summary: |
       The Karuna Institute was originally founded and developed over 40 years by Maura and Franklyn Sills,  who were both Buddhist Practitioners and therapists.
+  - title: UK Council for Psychotherapy
+    url: https://www.psychotherapy.org.uk/
+    date: ''
+    awarder: 
+    icon: coursera
+    summary: |
+      The UK Council for Psychotherapy is the leading organisation for psychotherapists and psychotherapeutic counsellors in the UK. Alongside offering professional support for our members we regulate the profession and promote access to psychotherapy for all.
   #- title: Blockchain Fundamentals
   #  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   #  date: '2023-07-01'
