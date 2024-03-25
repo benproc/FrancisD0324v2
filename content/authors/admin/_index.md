@@ -22,7 +22,7 @@ superuser: true
 role: Psychotherapist and Supervisor
 
 # Organizations/Affiliations to display in Biography blox
-organizations: UKCP
+organizations:
   - name: 
     url: 
 
