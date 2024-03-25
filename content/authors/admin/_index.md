@@ -23,8 +23,8 @@ role: Psychotherapist and Supervisor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 
-    url: 
+  - name: UKCP Rgistered
+    url: https://www.psychotherapy.org.uk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
