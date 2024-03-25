@@ -17,6 +17,12 @@ sections:
         color: '#4B088A'
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
         text_color_light: true
+  - block: resume-awards
+    content:
+      title: Links
+      # Note: `username` refers to the user's folder name in `content/authors/`
+      username: admin
+---
 
 ---
 
