@@ -193,7 +193,7 @@ Sessions are weekly for 1 hour, enquire for present fees.
 
 # Enquiries welcome:
 
-{{< icon name="phone" pack="fas" >}} 01865 123 123
+{{< icon name="phone" pack="fas" >}} Phone: 01865 123 123
 <p>
-{{< icon name="envelope" pack="fas" >}} francisdeas@yahoo.co.uk
+{{< icon name="envelope" pack="fas" >}} Email: francisdeas@yahoo.co.uk
 
