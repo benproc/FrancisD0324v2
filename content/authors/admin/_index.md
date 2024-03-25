@@ -5,7 +5,7 @@ title: Francis Deas
 
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Francis
@@ -172,6 +172,7 @@ awards:
 ---
 
 ## *dip psych UKCP Reg*
+### *UKCP REGISTERED No.00981422*
 
 I have been a full time UK registered psychotherapist for the last 25 years and have worked with people from a broad range of backgrounds on issues such as anxiety, self-esteem, relationship conflict, nervous breakdown, and bereavement.
 
@@ -193,6 +194,6 @@ Sessions are weekly for 1 hour, enquire for present fees.
 # Enquiries welcome:
 
 {{< icon name="phone" pack="fas" >}} 01865 123 123
-&nbsp
+{{<p>}}
 {{< icon name="envelope" pack="fas" >}} francisdeas@yahoo.co.uk
 
