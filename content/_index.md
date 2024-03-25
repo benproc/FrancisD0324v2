@@ -14,7 +14,7 @@ sections:
     design:
       background:
     # Choose a color such as from https://html-color-codes.info
-        color: '#A9E2F3'
+        color: '#F5EFFB'
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
         text_color_light: true
 
