@@ -8,7 +8,7 @@ type: landing
 sections:
   - block: biography-2
     content:
-      title: Francis Deas * dip psych *
+      title: Francis Deas
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
     design:
