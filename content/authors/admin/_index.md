@@ -148,14 +148,14 @@ awards:
     url: https://karunainstitute.co.uk/
     date: ''
     awarder: 
-    icon: coursera
+    icon: karuna
     summary: |
       The Karuna Institute was originally founded and developed over 40 years by Maura and Franklyn Sills,  who were both Buddhist Practitioners and therapists.
   - title: UK Council for Psychotherapy
     url: https://www.psychotherapy.org.uk/
     date: ''
     awarder: 
-    icon: coursera
+    icon: ukcp
     summary: |
       The UK Council for Psychotherapy is the leading organisation for psychotherapists and psychotherapeutic counsellors in the UK. Alongside offering professional support for our members we regulate the profession and promote access to psychotherapy for all.
   #- title: Blockchain Fundamentals
@@ -194,7 +194,7 @@ Therapy can be enjoyable as well as challenging and in this approach the client-
 
 > “Muddy water, let stand, becomes clear”  Lao Tzu
 
-I live in Pembrokeshire in Wales in the UK, and since Covid I work online on Zoom, Facetime (for Macs) and Skype.
+I live in Pembrokeshire in Wales in the UK, and since 2020 I work online on Zoom, Facetime (for Macs) and Skype.
 
 Sessions are weekly for 1 hour, enquire for present fees. 
 
